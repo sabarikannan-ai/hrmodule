@@ -1,0 +1,8 @@
+README.md
+setup.py
+hrmodule/__init__.py
+hrmodule/cli.py
+hrmodule.egg-info/PKG-INFO
+hrmodule.egg-info/SOURCES.txt
+hrmodule.egg-info/dependency_links.txt
+hrmodule.egg-info/top_level.txt

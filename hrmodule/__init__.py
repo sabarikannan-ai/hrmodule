@@ -1,0 +1,1 @@
+from hrmodule.cli import *
